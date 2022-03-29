@@ -1,5 +1,5 @@
 # Simple-Calculator
-Creating a Calculator using HTML, CSS &amp; JS | JavaScript
+Created a Calculator using HTML, CSS &amp; JS | JavaScript
 
 <h1>Page</h1>
 
